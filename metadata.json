@@ -1,0 +1,5 @@
+{
+  "name": "Neon Subway Surfer",
+  "description": "A high-octane, infinite runner game inspired by Subway Surfers. Features 3D-simulated canvas graphics, reactive controls, and AI-generated daily missions.",
+  "requestFramePermissions": []
+}
